@@ -80,7 +80,7 @@
             {
                 if (this.lives > 0)
                 {
-                    if (e.KeyCode == Keys.Enter)
+                    if (e.KeyCode == Keys.Space)
                     {
                         this.timer1.Enabled = true;
                         this.anotherCarY = 50;
