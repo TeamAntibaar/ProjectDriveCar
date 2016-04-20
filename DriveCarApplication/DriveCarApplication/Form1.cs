@@ -100,6 +100,12 @@
                 }
             }
 
+
+            if (e.KeyCode == Keys.Escape)
+            {
+                this.Close();
+            }
+
         }
 
         private void Form1_KeyUp(object sender, KeyEventArgs e)

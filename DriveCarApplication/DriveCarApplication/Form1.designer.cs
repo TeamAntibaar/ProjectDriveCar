@@ -136,7 +136,6 @@
             this.score.Size = new System.Drawing.Size(30, 31);
             this.score.TabIndex = 2;
             this.score.Text = "0";
-            this.score.Visible = false;
             // 
             // timer1
             // 
